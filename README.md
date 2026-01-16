@@ -74,14 +74,6 @@ I’m a **DevOps Engineer at Cognizant** with 1+ year experience in the **health
 
 ---
 
-### 📊 GitHub Stats & Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopallpatell&show_icons=true&theme=tokyonight&hide_title=true&border_radius=12" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopallpatell&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 💡 Always exploring new DevOps tools & cloud solutions to **automate, optimize, and deploy**.
 
